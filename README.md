@@ -1,5 +1,7 @@
 ![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adriansev&show_icons=true&theme=dark)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adriansev&repo=jalien_py&show_owner&show_icons=true&theme=dark)](https://github.com/adriansev/jalien_py)
+
 <!--
 **adriansev/adriansev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
